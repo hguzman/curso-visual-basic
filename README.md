@@ -2,4 +2,5 @@
 Curso de visual Basic basico
 
 1. [Introducción](introduccion/readme.md)
-     1. ¿Qué es programacion?
+     1. ¿Qué es visual Basic?
+     2. ¿Qué es programacion?
