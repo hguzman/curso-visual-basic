@@ -11,3 +11,4 @@ Lista de los aprendices asociados a la ficha 2206442
 7. Joymar Villa Bonilla
 8. David Jose Garcia Villanueva
 9. Stiven avila de la hoz
+10.Roque jesus soto baldovino
