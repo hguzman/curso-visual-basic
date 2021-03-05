@@ -6,12 +6,11 @@ brindando los conociminetos básicos, que posibiliten la comprensión de lo que 
 
 1. [Introducción](introduccion/readme.md)
      1. ¿Qué es Visual Basic?
-2. [Lista estudiantes](aprendices/readme.md)
-3. [Variables]()
-4. [Constantes]()
-5. [Contadores]()
-6. [Acumuladores]()
-7. [Condionales]()
-8. [Ciclos]()
+2. [Variables]()
+3. [Constantes]()
+4. [Contadores]()
+5. [Acumuladores]()
+6. [Condionales]()
+7. [Ciclos]()
      1. [Ciclo para (for)]()
      2. [Mientras que (While)]()
