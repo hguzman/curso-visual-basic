@@ -3,10 +3,13 @@
   ## ¿Qué es una variable en programacion?
 
    En programación, una variable es un elemento que tiene un nombre y contiene un valor.
-   En la mayoría de lenguajes de programación una variable es un contenedor que contiene información a
-   la que puedes acceder. Puedes pensar en una variable como una caja que contiene items, una caja que puedes 
+   En la mayoría de lenguajes de programación una variable es un contenedor que mantiene información a
+   la que puedes acceder. 
+   
+   Puedes pensar en una variable como una caja que contiene items, una caja que puedes 
    abrir y cerrar y a la que le puedes añadir cosas. En algunos casos, la memoria humana y la memoria de un ordenador 
    es parecida:guardamos en espacios nuestros recuerdos e información.
+   
    Por ejemplo, viendo un partido de fútbol, tenemos que guardar continuamente el resultado del partido. 
    En el lenguaje de la informática, eso es básicamente un espacio de memoria guardando un resultado que 
    es el ‘score’ del partido. Un resultado que va variando en cada momento. También podría considerarse el
