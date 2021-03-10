@@ -10,27 +10,30 @@ En **VBC** hay diferentes estructuras de condicionales, cada una de ellas con fu
 
 Comencemos por:
 
-**if** :
+### if
+ 
 **if** o tambien conocida como **si**, se encarga de acreditar si se cumple la o las funciones establecidas y de 
 acuerdo a ello, si lo establecido es verdadero, realiza algo; y si no lo es realiza otra acción. A continuación encontrarás 
 la especificación de la estructura **if**, lo que la compone y su construcción básica.
 
-If = si
+* If = si
 (*condición*) = Aquí estaría la condición que queremos que se cumpla, es decir:
-   1 **=** igual a
-   2 **<>** Desigual
-   3 **<** Menor a 
-   4 **>** Mayor a 
-   5 **<=** Menor o igual a 
-   6 **>=** Mayor o igual a
- then = entonces  es decir, lo que se va a hacer de acuerdo a 
-*instrucciones* = Aquí va la orden a realizar, a partir de lo que respecte el cumplimiento de la condición.
- End if = Es el cierre o conclusión después de haber cumplido las instrucciones establecidas. 
+   * 1 **=** igual a
+   * 2 **<>** Desigual
+   * 3 **<** Menor a 
+   * 4 **>** Mayor a 
+   * 5 **<=** Menor o igual a 
+   * 6 **>=** Mayor o igual a
+* then = Entonces...  es decir, lo que se va a hacer de acuerdo a 
+* *instrucciones* = Aquí va la orden a realizar, a partir de lo que respecte el cumplimiento de la condición.
+* End if = Es el cierre o conclusión después de haber cumplido las instrucciones establecidas. 
    
-   **representación**
+   * **representación**
    
+   ```
    if (*condición*) then
-        *instrucción*
+        `*instrucción*
    End if
+   ```
     
     
