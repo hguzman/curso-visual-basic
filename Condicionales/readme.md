@@ -1,0 +1,36 @@
+# Condicionales 
+
+Tal a como desde un principio hace alusión, se trata de un condicionamiento (condición) que 
+se aplica a una instrucción. Las condicionales, son aquellas que nos permiten ejecutar
+una instrucción, si  se cumple la condición que hemos establecido. 
+
+En **VBC** hay diferentes estructuras de condicionales, cada una de ellas con funciones específicas, como lo presentamos a continuación.
+
+## Condiciones:
+
+Comencemos por:
+
+**if** :
+**if** o tambien conocida como **si**, se encarga de acreditar si se cumple la o las funciones establecidas y de 
+acuerdo a ello, si lo establecido es verdadero, realiza algo; y si no lo es realiza otra acción. A continuación encontrarás 
+la especificación de la estructura **if**, lo que la compone y su construcción básica.
+
+If = si
+(*condición*) = Aquí estaría la condición que queremos que se cumpla, es decir:
+   1 **=** igual a
+   2 **<>** Desigual
+   3 **<** Menor a 
+   4 **>** Mayor a 
+   5 **<=** Menor o igual a 
+   6 **>=** Mayor o igual a
+ then = entonces  es decir, lo que se va a hacer de acuerdo a 
+*instrucciones* = Aquí va la orden a realizar, a partir de lo que respecte el cumplimiento de la condición.
+ End if = Es el cierre o conclusión después de haber cumplido las instrucciones establecidas. 
+   
+   **representación**
+   
+   if (*condición*) then
+        *instrucción*
+   End if
+    
+    
