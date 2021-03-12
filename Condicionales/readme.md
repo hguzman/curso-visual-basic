@@ -36,4 +36,25 @@ la especificación de la estructura **if**, lo que la compone y su construcción
    End if
    ```
     
-    
+ ## Dependiendo de (Select case)
+ 
+ ```
+  Sub casos()
+    Do
+        n1 = Int(InputBox("Registre numero"))
+        n2 = Int(InputBox("Registre numero"))
+        op = Int(InputBox("Seleccione una opcion: " & vbCrLf & "1. Suma" & vbCrLf & "2. Resta" & vbCrLf & "3. Multipliación" & vbCrLf & "0 .Salir"))
+        
+        Select Case op
+            Case 1
+                r = n1 + n2
+            Case 2
+                r = n1 - n2
+            Case 3
+                r = n1 * n2
+        End Select
+        MsgBox "Resultado" & r
+        
+    Loop Until (op = 0)
+ End Sub
+ ```
