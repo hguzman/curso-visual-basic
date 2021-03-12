@@ -2,8 +2,10 @@
 
 Curso de visual Basic basico
 
-Este curso, pretende ser una herramienta de apoyo y guía, para todos aquellos interesados que pretendan adentrarse al mundo de la progamación desde el lenguaje **Visual Basic**,  
-brindando los conociminetos básicos, que posibiliten la comprensión de lo que es **VB** sus beneficios, su uso y funcionamiento...
+
+Este curso pretende ser una herramienta de apoyo y guía para todos aquellos interesados que pretendan adentrarse al mundo de la programación desde el lenguaje **Visual Basic**, 
+brindando los conocimientos básicos para facilitar su comprensión y su correcto funcionamiento, en el aprenderas dentro de los siguientes items sus definiciones, funciones, herramientas, beneficios, su correcto uso, su correcto manejo, y en el podras encontrar ejemplos que te facilitaran para crear tus primeros codigos de programacion con **VB**...
+
 
 1. [Introducción](introduccion/readme.md)
      1. **¿Qué es Visual Basic?**
