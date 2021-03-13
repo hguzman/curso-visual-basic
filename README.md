@@ -8,8 +8,8 @@ brindando los conocimientos básicos para facilitar su comprensión y su correct
 
 
 1. [Introducción](introduccion/readme.md)
-     1. **¿Qué es Visual Basic?**
-     2. **Entorno de Visual Basic**
+     1.  **¿Qué es Visual Basic?**
+     2.  **Entorno de Visual Basic**
 2. [Variables](Variables/readme.md)
      1. **¿Que son las variables en programacion?**
 3. [Constantes](Constantes/readme.md)
