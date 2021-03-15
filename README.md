@@ -17,7 +17,7 @@ brindando los conocimientos básicos para facilitar su comprensión y su correct
 5. [Acumuladores](Acumuladores/readme.md)
 6. [Condionales](Condicionales/readme.md)
      1. Dependiendo de (Select case)
-8. [Ciclos](Ciclos/readme.md)
+8. Ciclos
      1. [Ciclo para (for)]()
      2. [Mientras que (While)]()
      3. [Haga hasta (do loop until)]()
