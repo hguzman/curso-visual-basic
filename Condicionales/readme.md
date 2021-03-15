@@ -37,6 +37,25 @@ la especificación de la estructura **if**, lo que la compone y su construcción
    ```
     
  ## Dependiendo de (Select case)
+  **Select case**, en el lenguaje de programación, es una instrucción que le permite al usuario asignar, clasificar u organizar a partir 
+ de una variable, sus posibles resultados. Esta instrucción es una alternativa al **If. Then. Else** y permite evaluar varias condiciones de manera mas formal u organizada.
+ 
+  * **representación**
+  La condición inicia con **Select case + Variable** y se cierra con **End select**
+    ```
+    Select case (variable)
+         case 1
+             (proceso del caso 1 *suma, resta, multiplicación, etc.)
+         case 2
+             (proceso del caso 2 *suma, resta, multiplicación, etc.)
+         case 3
+             (" " ")
+          case ...
+    End select
+    ```
+     
+ **Ejemplo:**
+  A continuación se presenta un programa que le pide al usuario registrar dos numeros y posterior a ello, plantea las opciones posibles al porceso, 1. Suma, 2. Resta, 3. multiplicación, 0. Salir del proceso. Seguidamente, se emplea la condición con los respectivos casos de acuerdo a la opción previamente establecida por el usuario (case 1, case 2, case 3). Finalmente, después de cerrarse la condición, se emitirá un mensaje que contenga la solución a la condición establecida.
  
  ```
   Sub casos()
