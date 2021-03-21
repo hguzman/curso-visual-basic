@@ -3,7 +3,7 @@
 Curso de visual Basic basico
 
 
-Este curso pretende ser una herramienta de apoyo y guía para todos aquellos interesados que pretendan adentrarse al mundo de la programación desde el lenguaje **Visual Basic**, 
+Este curso pretende ser una herramienta de apoyo y guía para todos aquellos interesados que pretendan adentrarse al mundo de la programación desde el lenguaje **Visual Basic**,
 brindando los conocimientos básicos para facilitar su comprensión y su correcto funcionamiento, en el aprenderas dentro de los siguientes items sus definiciones, funciones, herramientas, beneficios, su correcto uso, su correcto manejo, y en el podras encontrar ejemplos que te facilitaran para crear tus primeros codigos de programacion con **VB**...
 
 
@@ -18,6 +18,6 @@ brindando los conocimientos básicos para facilitar su comprensión y su correct
 6. [Condionales](Condicionales/readme.md)
      1. Dependiendo de (Select case)
 8. Ciclos
-     1. [Ciclo para (for)]()
-     2. [Mientras que (While)]()
-     3. [Haga hasta (do loop until)]()
+     1. [Ciclo para (for)](para/readme.md)
+     2. [Mientras que (While)](while/readme.md)
+     3. [Haga hasta (do loop until)](Haga hasta/readme.md)
