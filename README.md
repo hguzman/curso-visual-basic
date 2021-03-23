@@ -16,8 +16,11 @@ brindando los conocimientos básicos para facilitar su comprensión y su correct
 4. [Contadores](Contadores/readme.md)
 5. [Acumuladores](Acumuladores/readme.md)
 6. [Condionales](Condicionales/readme.md)
-     1. Dependiendo de (Select case)
+     1. **Dependiendo de (Select case)**
 8. Ciclos
      1. [Ciclo para (for)](para/readme.md)
      2. [Mientras que (While)](while/readme.md)
-     3. [Haga hasta (do loop until)](Haga hasta/readme.md)
+     3. [Haga hasta (do loop until)](Hagahasta/readme.md)
+9. [Diagrama de Flujo](DiagramaDeFlujo/readme.md)
+     1. **¿Que es un diagrama de flujo?**
+     2. **Simbolos utilizados en el diagrama de flujo**
