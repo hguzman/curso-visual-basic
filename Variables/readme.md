@@ -1,4 +1,4 @@
-# variables
+# Variables
 
   ## ¿Qué es una variable en programacion?
 
@@ -16,9 +16,9 @@
    mismo ejemplo mi sabor favorito de helado, 
    una información guardada en mi cabeza.
     
-  ### tipos de variables
+  ### Tipos de variables
   
-   las variables sólo pueden guardar un tipo de dato, por ejemplo, números, frases, valores booleanos.
+   Las variables sólo pueden guardar un tipo de dato, por ejemplo, números, frases, valores booleanos.
 
    #### Números:
    
