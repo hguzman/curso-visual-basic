@@ -1,4 +1,4 @@
-##contadores 
+## contadores 
 
 Un contador es una variable cuyo valor se incrementa o decrementa en una cantidad constante cada vez que se produce un determinado suceso o acción. Los contadores se utilizan con la finalidad de contar sucesos o acciones internas de un bucle.
 
